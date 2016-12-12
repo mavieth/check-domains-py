@@ -22,6 +22,21 @@ Add domains (one per each line) for checker to check. It will print out availabi
 python check.py
 ```
 
+## Result
+```bash
+-----------------------------
+Unavailable Domains:
+-----------------------------
+google.com
+
+
+-----------------------------
+Available Domains:
+-----------------------------
+adomainthatshouldbeavailable.com
+check-domains-py.com
+```
+
 
 
 
