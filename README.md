@@ -5,7 +5,7 @@
 sudo pip install virtualenv
 ```
 
-## Clone Project
+## Clone Project and Activate Virtual Environment
 ```bash
 git clone https://github.com/mavieth/check-domains-py.git
 cd check-domains-py
