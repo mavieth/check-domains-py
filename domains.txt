@@ -1,3 +1,1 @@
-google.com
-adomainthatshouldbeavailable.com
-check-domains-py.com
+citius.com

@@ -16,6 +16,8 @@ def run():
     for dom in domains:
         if dom is not None and dom != '':
             details = pythonwhois.get_whois(dom)
+            print details
+            
             if details['contacts']['registrant'] is not None:
                 unavailable.append(dom)
             else:
