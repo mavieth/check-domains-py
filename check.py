@@ -1,6 +1,7 @@
 #!/usr/bin/python
 import pythonwhois
 domains = []
+informationz = []
 
 
 available = []
